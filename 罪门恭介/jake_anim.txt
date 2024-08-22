@@ -1,0 +1,258 @@
+24 animations
+
+* Animation 0
+1 keyframes
+Frame	Duration
+0	25
+
+* Animation 1
+2 keyframes
+Frame	Duration
+1	3
+2	3
+
+* Animation 2
+12 keyframes
+Frame	Duration
+3	18
+4	4
+5	3
+6	1
+3	8
+4	3
+5	5
+6	7
+3	36
+4	3
+6	7
+3	35
+
+* Animation 3
+1 keyframes
+Frame	Duration
+7	34
+
+* Animation 4
+4 keyframes
+Frame	Duration
+8	3
+9	3
+10	3
+9	3
+
+* Animation 5
+1 keyframes
+Frame	Duration
+12	33
+
+* Animation 6
+4 keyframes
+Frame	Duration
+12	3
+13	3
+14	3
+13	3
+
+* Animation 7
+5 keyframes
+Frame	Duration
+16	7
+17	3
+16	7
+17	3
+16	7
+
+* Animation 8
+4 keyframes
+Frame	Duration
+19	8
+20	1
+21	1
+22	15
+
+* Animation 9
+1 keyframes
+Frame	Duration
+25	25
+
+* Animation 10
+2 keyframes
+Frame	Duration
+27	4
+28	4
+
+* Animation 11
+21 keyframes
+Frame	Duration
+31	1
+34	1
+31	1
+34	1
+31	1
+34	1
+31	1
+34	1
+31	1
+34	1
+31	1
+34	1
+31	1
+34	1
+31	1
+34	1
+31	1
+34	5
+33	1
+32	4
+29	3
+
+* Animation 12
+49 keyframes
+Frame	Duration
+35	13
+36	5
+35	4
+36	4
+35	13
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+36	1
+37	1
+
+* Animation 13
+1 keyframes
+Frame	Duration
+38	1
+
+* Animation 14
+4 keyframes
+Frame	Duration
+39	3
+40	3
+41	3
+40	3
+
+* Animation 15
+1 keyframes
+Frame	Duration
+42	60
+
+* Animation 16
+4 keyframes
+Frame	Duration
+43	3
+44	3
+45	3
+44	3
+
+* Animation 17
+13 keyframes
+Frame	Duration
+46	1
+47	1
+46	1
+47	1
+46	1
+47	1
+46	1
+47	1
+46	1
+47	1
+46	2
+47	2
+46	3
+
+* Animation 18
+1 keyframes
+Frame	Duration
+48	1
+
+* Animation 19
+1 keyframes
+Frame	Duration
+49	1
+
+* Animation 20
+9 keyframes
+Frame	Duration
+50	5
+51	4
+52	4
+51	3
+50	4
+51	4
+52	4
+51	3
+50	4
+
+* Animation 21
+8 keyframes
+Frame	Duration
+54	4
+55	4
+54	3
+53	4
+54	4
+55	4
+54	3
+53	5
+
+* Animation 22
+1 keyframes
+Frame	Duration
+56	1
+
+* Animation 23
+2 keyframes
+Frame	Duration
+57	3
+58	3
+
+Unused frames
+11
+15
+18
+23
+24
+26
+30
